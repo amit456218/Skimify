@@ -1,30 +1,22 @@
 # Skimify
 
-Hey there! Welcome to **Skimify**—your go-to app for lightning-fast text summaries as you scroll through any textbook or article. No fluff, just the juice you need to ace your read.
+Check it out live: https://skimify.onrender.com/
+
+Skimify is a simple tool that gives you quick, no-fluff summaries of any text you’re reading. Just scroll through your article or textbook, hit “Summarize,” and you get the gist.
 
 ---
 
-## 🚀 What’s Skimify All About?
+## What’s in here
 
-- **Instant Summaries**: Highlight or scroll through chunks of text and hit “Summarize.” Boom—a concise breakdown, yk?
-- **Clean UI**: Minimal, distraction-free, and super snappy.
-- **Powered by OpenAI**: We lean on GPT under the hood, so expect human-grade summaries.
-- **Easy Deploy**: Hosted on Render, but you can self-host anywhere (instructions below).
-
----
-
-## 🔥 Features
-
-- 🎯 **One-click Summaries**  
-- ⚡ **Real-time Performance**  
-- 🔒 **Env-var Security** for your API keys  
-- 📱 **Responsive Design**—works on desktop and mobile  
+- **Instant summaries** on scroll or selection. No bloat, just the important points.
+- **Clean overlay** that doesn’t get in your way or slow things down.
+- **Powered by OpenAI** under the hood, so you get solid, human-grade results.
 
 ---
 
-## 🛠️ Getting Started
+## Running it locally
 
-### 1. Clone the Repo
-```bash
-git clone https://github.com/amit456218/Skimify.git
-cd Skimify
+1. **Clone**
+   ```bash
+   git clone https://github.com/amit456218/Skimify.git
+   cd Skimify
