@@ -1,6 +1,7 @@
 # Skimify
 
 🔗 **Live Demo:** [skimify.onrender.com](https://skimify.onrender.com)
+(wait 30 seconds for rendering)
 
 Skimify gives you instant, no-fluff summaries of whatever you’re reading — in real time. Whether you're scrolling a page or highlighting text, it jumps in and gives you the gist without breaking your flow.
 
